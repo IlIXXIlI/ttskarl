@@ -10,7 +10,7 @@
             "name": "TikTok",
             "developer": "TikTok Ldt.",
             "version": "30.7",
-            "ipa": "https://github.com/Ibinou/dirtycowrepo/blob/main/Blacklist%202.ipa?raw=true",
+            "ipa": "https://github.com/IlIXXIlI/app/releases/download/pay/zbxl.ipa",
             "icon": "https://iosvizor.com/wp-content/uploads/2023/06/TikTok.png",
             "screenshots": [
 				"https://trashbox.ru/ifiles/986208_5aa37d_screenshot_00.png_min/tik-tok-android-8.jpg",
